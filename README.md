@@ -12,16 +12,6 @@ Aspiring Data Analyst | Python Developer | Data Science Enthusiast
 Transforming raw data into meaningful insights through analytics, visualization, and intelligent solutions.
 </p>
 
-<p align="center">
-<a href="https://komarev.com/ghpvc/?username=tejaswini131123">
-<img src="https://komarev.com/ghpvc/?username=tejaswini131123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/tejaswini131123?tab=followers">
-<img src="https://img.shields.io/github/followers/tejaswini131123?label=Followers&style=social"/>
-</a>
-</p>
-
 ---
 
 # 👩‍💻 About Me
