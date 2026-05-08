@@ -71,7 +71,7 @@ Transforming raw data into meaningful insights through analytics, visualization,
 
 ### 🛠️ Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ### 📚 Core Concepts
