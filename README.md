@@ -1,36 +1,41 @@
 <p align="center">
-  <img src="[YOUR_BANNER_IMAGE_LINK](https://github.com/tejaswini131123/Tejaswini/blob/main/github%20banner.avif)" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/tejaswini131123/Tejaswini/main/github%20banner.avif" width="100%" alt="Banner"/>
 </p>
 
-<h1 align="center">Manga Tejaswini</h1>
+<h1 align="center">Hi 👋, I'm Manga Tejaswini</h1>
 
 <h3 align="center">
-Data Analyst | Python Developer | CSE-DS Student
+Aspiring Data Analyst | Python Developer | Data Science Enthusiast
 </h3>
 
 <p align="center">
-Passionate about data analytics, visualization, and building intelligent solutions using Python, SQL, and Business Intelligence tools.
+Transforming raw data into meaningful insights through analytics, visualization, and intelligent solutions.
+</p>
+
+<p align="center">
+<a href="https://komarev.com/ghpvc/?username=tejaswini131123">
+<img src="https://komarev.com/ghpvc/?username=tejaswini131123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
+
+<a href="https://github.com/tejaswini131123?tab=followers">
+<img src="https://img.shields.io/github/followers/tejaswini131123?label=Followers&style=social"/>
+</a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-I am a Computer Science and Data Science student with a strong interest in Data Analytics, Business Intelligence, and Machine Learning. I enjoy transforming raw data into meaningful insights and developing solutions that support data-driven decision-making.
-
-My academic projects and technical experience have helped me build strong foundations in:
-- Data Analysis & Visualization
-- Exploratory Data Analysis (EDA)
-- Dashboard Development
-- Natural Language Processing (NLP)
-- Database Management Systems
-- Problem Solving & Analytical Thinking
-
-I am continuously improving my technical expertise while exploring real-world applications of Data Science and Analytics.
+🎓 Final-year **Computer Science & Data Science** student passionate about building data-driven solutions.  
+📊 Skilled in **Python, SQL, Power BI, Tableau, and Exploratory Data Analysis**.  
+🧠 Interested in **Machine Learning, NLP, Data Visualization, and Business Intelligence**.  
+🚀 Experienced in developing analytical dashboards, NLP systems, and database-driven applications.  
+📈 Strong focus on converting complex datasets into actionable business insights.  
+💡 Continuously learning modern technologies and improving problem-solving abilities.  
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/manga-tejaswini1311" target="_blank">
@@ -48,17 +53,14 @@ I am continuously improving my technical expertise while exploring real-world ap
 
 ---
 
-## 🛠️ Technical Skills
+# 💼 Technical Skills
 
-### Programming Languages
+### 👩‍💻 Programming Languages
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,r,mysql"/>
 </p>
 
-### Data Analytics & Visualization
+### 📊 Data Analytics & Visualization
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -67,27 +69,65 @@ I am continuously improving my technical expertise while exploring real-world ap
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
-### Databases
+### 🛠️ Tools & Platforms
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
 </p>
 
-### Tools & Technologies
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+### 📚 Core Concepts
+<p>
+<img src="https://img.shields.io/badge/EDA-800080?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DSA-0047AB?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🎯 Career Objective
+# 🏆 Certifications
 
-Aspiring Data Analyst with strong skills in Python, SQL, Data Visualization, and Exploratory Data Analysis. Seeking opportunities to apply analytical and problem-solving abilities to real-world business challenges while continuously learning and growing in the field of Data Science.
+🏅 Power BI – SkillUp (Simplilearn, Microsoft Powered)  
+🏅 Tableau – SkillUp (Simplilearn)  
+🏅 Python for Everybody – HackerRank  
+🏅 SQL for Data Science – HackerRank  
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejaswini131123&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswini131123&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswini131123&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 Career Focus
+
+✔ Data Analytics  
+✔ Business Intelligence  
+✔ Data Visualization  
+✔ Machine Learning  
+✔ NLP Applications  
+✔ Dashboard Development  
+
+---
+
+# ✨ What Makes Me Different
+
+💡 Strong combination of technical, analytical, and problem-solving skills  
+📊 Ability to transform complex datasets into clear business insights  
+🚀 Fast learner with a passion for continuous improvement  
+🤝 Team-oriented mindset with effective communication skills  
 
 ---
 
 <p align="center">
-Thank you for visiting my profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
