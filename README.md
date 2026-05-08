@@ -94,20 +94,6 @@ Transforming raw data into meaningful insights through analytics, visualization,
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejaswini131123&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswini131123&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswini131123&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🎯 Career Focus
 
 ✔ Data Analytics  
@@ -130,4 +116,8 @@ Transforming raw data into meaningful insights through analytics, visualization,
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+</p>
+
+<p align="center">
+⭐ Thank you for visiting my GitHub profile ⭐
 </p>
