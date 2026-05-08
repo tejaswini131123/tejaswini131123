@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tejaswini131123/Tejaswini/main/github%20banner.avif" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/tejaswini131123/Tejaswini/main/github%20banner.avif" width="80%" alt="Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Manga Tejaswini</h1>
+<h1 align="center">I'm Manga Tejaswini</h1>
 
 <h3 align="center">
 Aspiring Data Analyst | Python Developer | Data Science Enthusiast
@@ -26,9 +26,9 @@ Transforming raw data into meaningful insights through analytics, visualization,
 
 # 👩‍💻 About Me
 
-🎓 Final-year **Computer Science & Data Science** student passionate about building data-driven solutions.  
-📊 Skilled in **Python, SQL, Power BI, Tableau, and Exploratory Data Analysis**.  
-🧠 Interested in **Machine Learning, NLP, Data Visualization, and Business Intelligence**.  
+🎓 Final-year Computer Science & Data Science student passionate about building data-driven solutions.  
+📊 Skilled in Python, SQL, Power BI, Tableau, and Exploratory Data Analysis.  
+🧠 Interested in Machine Learning, NLP, Data Visualization, and Business Intelligence.  
 🚀 Experienced in developing analytical dashboards, NLP systems, and database-driven applications.  
 📈 Strong focus on converting complex datasets into actionable business insights.  
 💡 Continuously learning modern technologies and improving problem-solving abilities.  
