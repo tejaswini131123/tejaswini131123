@@ -16,7 +16,7 @@ Transforming raw data into meaningful insights through analytics, visualization,
 
 # 👩‍💻 About Me
 
-🎓 Final-year Computer Science & Data Science student passionate about building data-driven solutions.  
+🎓 Computer Science & Data Science student passionate about building data-driven solutions.  
 📊 Skilled in Python, SQL, Power BI, Tableau, and Exploratory Data Analysis.  
 🧠 Interested in Machine Learning, NLP, Data Visualization, and Business Intelligence.  
 🚀 Experienced in developing analytical dashboards, NLP systems, and database-driven applications.  
